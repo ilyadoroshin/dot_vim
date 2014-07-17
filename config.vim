@@ -10,7 +10,7 @@ set term=xterm-256color
 colorscheme sexy-railscasts-256
 " Force 256 color mode if available
 if $TERM =~ "-256color"
-   set t_Co=256
+  set t_Co=256
 endif
 
 " -----------------------------

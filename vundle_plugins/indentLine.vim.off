@@ -1,0 +1,8 @@
+if exists('g:vundle_installing_plugins')
+    Bundle 'Yggdroot/indentLine'
+    finish
+endif
+
+let g:indentLine_color_term = 239
+let g:indentLine_char = '┆'
+
