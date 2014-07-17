@@ -113,7 +113,6 @@ This example installs [`vim-move`](https://github.com/matze/vim-move).
 | 432 :star: |[vim-less](https://github.com/groenewege/vim-less)|vim syntax for LESS (dynamic CSS) |
 | 416 :star: |[vim-abolish](https://github.com/tpope/vim-abolish)|abolish.vim: easily search for, substitute, and abbreviate multiple variants of a word |
 | 380 :star: |[tcomment_vim](https://github.com/tomtom/tcomment_vim) [:page_facing_up:](vundle_plugins/tcomment_vim.vim)|An extensible & universal comment vim-plugin that also handles embedded filetypes |
-| 350 :star: |[vim-jade](https://github.com/digitaltoad/vim-jade)|Vim Jade template engine syntax highlighting and indention |
 | 345 :star: |[vim-ruby-refactoring](https://github.com/ecomba/vim-ruby-refactoring)|Refactoring tool for Ruby in vim! |
 | 338 :star: |[vim-session](https://github.com/xolox/vim-session) [:page_facing_up:](vundle_plugins/vim-session.vim)|Extended session management for Vim (:mksession on steroids) |
 | 328 :star: |[vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) [:page_facing_up:](vundle_plugins/vim-tmux-navigator.vim)|Seamless navigation between tmux panes and vim splits |
@@ -124,7 +123,6 @@ This example installs [`vim-move`](https://github.com/matze/vim-move).
 | 207 :star: |[vim-json](https://github.com/elzr/vim-json)|A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly. |
 | 205 :star: |[webapi-vim](https://github.com/mattn/webapi-vim)|vim interface to Web API |
 | 204 :star: |[undotree](https://github.com/mbbill/undotree)|Display your undo history in a graph. |
-| 192 :star: |[cocoa.vim](https://github.com/msanders/cocoa.vim)|Vim plugin for Cocoa/Objective-C development. |
 | 189 :star: |[vim-bundler](https://github.com/tpope/vim-bundler)|bundler.vim: Lightweight support for Ruby's Bundler |
 | 179 :star: |[vim-textobj-rubyblock](https://github.com/nelstrom/vim-textobj-rubyblock)|A custom text object for selecting ruby blocks. |
 | 165 :star: |[vim-stylus](https://github.com/wavded/vim-stylus)|Syntax Highlighting for Stylus |
@@ -139,12 +137,9 @@ This example installs [`vim-move`](https://github.com/matze/vim-move).
 | 74 :star: |[colorv.vim](https://github.com/Rykka/colorv.vim) [:page_facing_up:](vundle_plugins/colorv.vim)|A powerful color tool in vim |
 | 74 :star: |[vim-markdown](https://github.com/gabrielelana/vim-markdown)|Markdown for Vim: a complete environment to create Markdown files with a syntax highlight that don't sucks! |
 | 68 :star: |[vim-misc](https://github.com/xolox/vim-misc)|Miscellaneous auto-load Vim scripts |
-| 67 :star: |[ember.vim](https://github.com/dsawardekar/ember.vim) [:page_facing_up:](vundle_plugins/ember.vim)|Vim plugin for the Emberjs frontend framework |
 | 66 :star: |[vim-visual-star-search](https://github.com/nelstrom/vim-visual-star-search)|Start a * or # search from a visual block |
 | 47 :star: |[git-nerdtree](https://github.com/Xuyuanp/git-nerdtree) [:page_facing_up:](vundle_plugins/git-nerdtree.vim)|NERDTree with git status support |
 | 46 :star: |[L9](https://github.com/vim-scripts/L9)|Vim-script library |
-| 44 :star: |[vim-marked](https://github.com/itspriddle/vim-marked)|Open the current Markdown buffer in Marked.app |
-| 44 :star: |[textile.vim](https://github.com/timcharper/textile.vim)|Textile for VIM |
 | 38 :star: |[portkey](https://github.com/dsawardekar/portkey) [:page_facing_up:](vundle_plugins/portkey.vim)|Navigate files at the speed of Vim. |
 | 32 :star: |[vim-anzu](https://github.com/osyo-manga/vim-anzu) [:page_facing_up:](vundle_plugins/vim-anzu.vim)|Vim search status. |
 | 30 :star: |[vim-togglelist](https://github.com/milkypostman/vim-togglelist)|Functions to toggle the [Location List] and the [Quickfix List] windows. |
@@ -158,13 +153,19 @@ This example installs [`vim-move`](https://github.com/matze/vim-move).
 | 6 :star: |[nginx.vim](https://github.com/mutewinter/nginx.vim)|Syntax highlighting for nginx.conf and related config files. |
 | 3 :star: |[swap-parameters](https://github.com/mutewinter/swap-parameters)|Swap parameters of a function or a comma separated list with a single command. |
 | 3 :star: |[GIFL](https://github.com/mutewinter/GIFL) [:page_facing_up:](vundle_plugins/GIFL.vim)|Add "wrap terms in google I'm feeling lucky url" à la Textmate |
-| 2 :star: |[taskpaper.vim](https://github.com/mutewinter/taskpaper.vim)|This package contains a syntax file and a file-type plugin for the simple format used by the TaskPaper application. |
 | 1 :star: |[tomdoc.vim](https://github.com/mutewinter/tomdoc.vim)|A simple syntax add-on for vim that highlights your TomDoc comments. |
 | 1 :star: |[HelpClose](https://github.com/vim-scripts/HelpClose)|Close all help windows |
 | 0 :star: |[vim-autoreadwatch](https://github.com/mutewinter/vim-autoreadwatch)|A forked script for vim auto reloading of buffers when changed on disk. |
 | 0 :star: |[vim-tmux](https://github.com/mutewinter/vim-tmux)|http://tmux.svn.sourceforge.net/viewvc/tmux/trunk/examples/tmux.vim?view=log |
 
-_That's 79 plugins, holy crap._
+# New
 
-_Generated by `rake update_readme` on 2014/07/10._
+| Stars___ | **Plugin** | **Description** |
+| -------: | :--------- | :-------------- |
+| ? |[vim-endwise.vim](https://github.com/tpope/vim-endwise) [:page_facing_up:](vundle_plugins/vim-endwise.vim)|End certain structures automatically, e.g. begin/end etc. |
+| ? |[solarized.vim](https://github.com/altercation/vim-colors-solarized) [:page_facing_up:](vundle_plugins/solarized.vim)|Solarized scheme for Vim. |
+| ? |[sexy-railscasts-256-theme.vim](https://github.com/davidkariuki/sexy-railscasts-256-theme)
+[:page_facing_up:](vundle_plugins/sexy-railscasts-256-theme.vim)|Sexy railscasts scheme for Vim. |
+| ? |[vim-gitignore.vim](https://github.com/vitaly/vim-gitignore)
+[:page_facing_up:](vundle_plugins/vim-gitignore.vim)|Hide .gitignore-d files from vim|
 
