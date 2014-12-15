@@ -164,8 +164,6 @@ This example installs [`vim-move`](https://github.com/matze/vim-move).
 | -------: | :--------- | :-------------- |
 | ? |[vim-endwise.vim](https://github.com/tpope/vim-endwise) [:page_facing_up:](vundle_plugins/vim-endwise.vim)|End certain structures automatically, e.g. begin/end etc. |
 | ? |[solarized.vim](https://github.com/altercation/vim-colors-solarized) [:page_facing_up:](vundle_plugins/solarized.vim)|Solarized scheme for Vim. |
-| ? |[sexy-railscasts-256-theme.vim](https://github.com/davidkariuki/sexy-railscasts-256-theme)
-[:page_facing_up:](vundle_plugins/sexy-railscasts-256-theme.vim)|Sexy railscasts scheme for Vim. |
-| ? |[vim-gitignore.vim](https://github.com/vitaly/vim-gitignore)
-[:page_facing_up:](vundle_plugins/vim-gitignore.vim)|Hide .gitignore-d files from vim|
+| ? |[sexy-railscasts-256-theme.vim](https://github.com/davidkariuki/sexy-railscasts-256-theme)[:page_facing_up:](vundle_plugins/sexy-railscasts-256-theme.vim)|Sexy railscasts scheme for Vim. |
+| ? |[vim-gitignore.vim](https://github.com/vitaly/vim-gitignore)[:page_facing_up:](vundle_plugins/vim-gitignore.vim)|Hide .gitignore-d files from vim|
 
